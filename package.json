@@ -1,0 +1,24 @@
+{
+  "name": "json",
+  "version": "1.0.0",
+  "description": "projeect",
+  "main": "app.js",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web-developer7/myfirstproject.git"
+  },
+  "author": "saidabror",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/web-developer7/myfirstproject/issues"
+  },
+  "homepage": "https://github.com/web-developer7/myfirstproject#readme"
+}
